@@ -2,6 +2,10 @@
 //  ContentView.swift
 //  SwiftData_One
 //
+
+
+
+
 //  Created by Famil Mustafayev on 14.06.24.
 //
 
